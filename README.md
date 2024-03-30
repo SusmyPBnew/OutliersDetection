@@ -4,6 +4,7 @@
 
 <ol>
 <li>First we check the given csv have any null values and duplicate values in it.For that we use a command that isnull().sum() & duplicated().sum() respectively.</li>
+  
 <li>After that we find the outliers in our data using some methods are listed below,</li>
 <ul>
   <li>Mean Function</li>
